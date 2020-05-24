@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Weatherly.Infrastructure</AssemblyName>
+    <RootNamespace>Weatherly.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppLogic\AppLogic.csproj" />
+  </ItemGroup>
+
+</Project>
