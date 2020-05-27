@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Weatherly.BlazorUI.Areas.Identity;
 using Weatherly.BlazorUI.Data;
+using Weatherly.Infrastructure.Persistence;
 
 namespace Weatherly.BlazorUI
 {
